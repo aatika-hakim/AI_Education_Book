@@ -39,7 +39,7 @@ Some key implications of these frameworks include:
 
 **2.6 Conclusion**
 
-The theoretical frameworks discussed in this chapter provide a foundation for understanding the role of AI in education. By understanding the social, cognitive, and motivational factors that influence learning, educators and developers can design AI systems that are more effective and engaging. As AI technologies continue to evolve and improve, it is essential to consider the theoretical frameworks that underpin their application in educational settings.
+The theoretical frameworks discussed in this chapter provide a foundation for understanding the application of AI in education. By understanding the social, cognitive, and motivational factors that influence learning, educators and developers can design AI systems that are more effective and engaging. As AI technologies continue to evolve and improve, it is essential to consider the theoretical frameworks that underpin their application in educational settings.
 
 **References**
 
