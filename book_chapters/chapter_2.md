@@ -8,4 +8,4 @@ If you're looking for ideas, I can suggest some popular topics. Please let me kn
 4. The History of Space Exploration
 5. The Benefits and Risks of Gene Editing
 
-Let me know if any of these topics interest you, or if you have something else in mind.
+Let me know if any of these topics interest you, or if you have something else in mind. I'll be happy to help.
